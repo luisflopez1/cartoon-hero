@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size:20px;
+	line-height:30px;
+}
+
+header{
+	background-color: salmon;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1{font-family: 'Sacramento', cursive;}
+header h1{
+	color: white;
+	font-size: 100px;
+
+}
+h2{font-size: 30px;
+color: salmon;}
+
+a{
+	color:salmon;
+	
+}
+a:hover{
+	color:blue;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white
+}
+
+main{
+	max-width: 800px;
+	margin:0 auto;
+	padding: 0px 20px;
+}
+
+
+
+main img{
+	max-width: 100%;
+}
+footer{background-color: salmon;
+color:white;
+padding:0px 20px;
+text-align: center;}
