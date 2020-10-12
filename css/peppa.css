@@ -18,7 +18,9 @@ header h1{
 
 }
 h2{font-size: 30px;
-color: salmon;}
+color: salmon;
+margin-top: 50px;
+margin-bottom: 10px;}
 
 a{
 	color:salmon;
@@ -37,7 +39,7 @@ header img{
 main{
 	max-width: 800px;
 	margin:0 auto;
-	padding: 0px 20px;
+	padding: 40px 20px 20px;
 }
 
 
@@ -47,5 +49,16 @@ main img{
 }
 footer{background-color: salmon;
 color:white;
-padding:0px 20px;
+padding:50px 20px;
 text-align: center;}
+
+footer p{
+	mergin: 0;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	text-align: center;
+	margin-top: 0px;
+}
